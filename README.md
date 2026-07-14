@@ -8,7 +8,9 @@
 
 - 🔍 Performance-driven professional with **13 years of experience** in Operations Management. Complements this leadership foundation with hands-on Data Analytics capability, using Power BI and Python (Streamlit) to turn operational data into actionable business insight.
 - 📊 Skilled in transforming complex datasets into actionable insights through **EDA, dashboards, and data visualisation**
-- 📄 **Published Researcher** — *Advanced International Journal for Research (AIJFR), Volume 7, Issue 3, May–June 2026*
+- 📄 **Published Researcher** — *Advanced International Journal for Research (AIJFR)*
+  - Product Line Profitability and Margin Performance Analysis for Nassau Candy Distributor — Vol. 7, Issue 3 (May–June 2026)
+  - Factory-to-Customer Shipping Route Efficiency Analysis for Nassau Candy Distributor — Vol. 7, Issue 4 (July–August 2026)
 - 🎓 B.Sc. Computer Science — BMS College for Women, Bangalore University
 - 🏆 Multiple award recipient — Star Award, Best Mentor, Top Talent, Best Performer, People's Champ
 - 📍 Bangalore, India
