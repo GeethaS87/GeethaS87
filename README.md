@@ -1,6 +1,6 @@
 # Hi, I'm Geetha S 👋
 
-**Data Analyst | Operations Management | Python | Power BI | Streamlit | Published Researcher**
+**Operations Management | Data Analytics | Python | Power BI | Streamlit | Published Researcher**
 
 ---
 
