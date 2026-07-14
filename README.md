@@ -1,6 +1,6 @@
 # Hi, I'm Geetha S 👋
 
-**Data Analyst | Python | Power BI | Tableau | Streamlit | Published Researcher**
+**Data Analyst | Operations Management | Python | Power BI | Streamlit | Published Researcher**
 
 ---
 
@@ -18,7 +18,23 @@
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
+
+### 🚚 Nassau Candy Distributor — Shipping Route Efficiency Analysis
+> Exploratory data analysis and interactive Streamlit dashboard for factory-to-customer shipping route efficiency at Nassau Candy Distributor.
+
+| | |
+|---|---|
+| 🔴 **Live Dashboard** | [ncd-shipping-route-efficiency-dashboard.streamlit.app](https://ncd-shipping-route-efficiency-dashboard.streamlit.app/) |
+| 📄 **Published Paper** | [AIJFR Volume 7, Issue 4 (July–August 2026)](https://www.aijfr.com/papers/2026/4/6846.pdf) |
+| 💻 **GitHub Repo** | [Nassau-Candy-Shipping-Route-Efficiency-Analysis](https://github.com/GeethaS87/Nassau-Candy-Shipping-Route-Efficiency-Analysis) |
+
+**Key findings:**
+- Standard Class carries 60% of shipment volume but drives a 36.9% delay rate — the network's dominant reliability risk
+- Sugar Shack is the clearest factory outlier: 6.09-day average lead time and a 33% delay rate
+- Sugar Shack → Gulf is the single highest-risk route (8.25 days, 50% delay rate)
+- Geographic proximity doesn't reliably predict delivery speed (r ≈ 0.16) — an "unrealised proximity advantage"
+- 8 congestion hotspot states identified, led by Texas, Pennsylvania, and Washington
 
 ### 📦 Nassau Candy Distributor — Profitability Analysis
 > Exploratory data analysis and interactive Streamlit dashboard for product line profitability and margin performance at Nassau Candy Distributor.
@@ -44,8 +60,6 @@
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -84,7 +98,7 @@
 
 - 📧 geethachandan87@gmail.com
 - 💼 [LinkedIn — Geetha Sridharamurthy](https://www.linkedin.com/in/geethasridharamurthy/)
-- 🔗 [Published Research — AIJFR](https://www.aijfr.com/papers/2026/3/5984.pdf)
+- 🔗 [Published Research — AIJFR](https://www.aijfr.com/papers/2026/4/6846.pdf)
 
 ---
 
